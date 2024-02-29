@@ -20,6 +20,6 @@ Explore my [Portfolio](https://angelocode.dev) to learn more about me and my wor
 - Drop me an [Email](mailto:danielangelonegri@gmail.com)
 
 
-My GitLab activity
+My GitLab activity ( Client Account )
 
 ![Screenshot 2024-02-26 at 17 17 06](https://github.com/angelo-negri/angelo-negri/assets/158775668/5b919d29-55c3-4520-bade-9731997e9021)
