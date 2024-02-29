@@ -1,5 +1,7 @@
 ### Hi, I'm Angelo 👋🏻
 
+I currently working [@Footium](https://footium.club) as a FullStack Developer.
+
 Explore my [Portfolio](https://angelocode.dev) to learn more about me and my work
 
 📦 Toolbox
