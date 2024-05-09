@@ -22,7 +22,7 @@ ___
 📫 Contact
 - DM me on [LinkedIn](https://www.linkedin.com/in/daniel-angelo-negri) 
 - Drop me an [Email](mailto:danielangelonegri@gmail.com)
-- 
+
 ---
 
 My GitLab activity ( Client Account )
